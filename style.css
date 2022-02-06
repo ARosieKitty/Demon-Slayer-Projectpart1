@@ -1,0 +1,56 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.greeting{
+  font-size: 20px;
+  color: rgb(253, 253, 253);
+  font-family: papyrus;
+  text-align: center;
+}
+
+.customButton {
+  width:350px;
+  height:120px;
+  background-color: #720404;
+  border: 3px solid rgb(0, 0, 0);
+  color: rgb(3, 3, 3);
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 70px;
+  font-family: Monaco;
+  margin: 8px 4px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
+
+.nextButton {
+  width:350px;
+  height:120px;
+  background-color: #720404;
+  border: 3px solid rgb(0, 0, 0);
+  color: rgb(3, 3, 3);
+  font-weight:bold;
+  border-radius: 10px;
+  margin-bottom:100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 70px;
+  font-family: Monaco;
+  margin: 8px 4px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  outline: none;
+}
